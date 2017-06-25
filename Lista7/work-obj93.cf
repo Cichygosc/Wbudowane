@@ -1,0 +1,16 @@
+v 4
+file . "decoder.vhd" "bd0f771fdc5217eb7987a2fe7d851c42f88421c9" "20170518150843.950":
+  entity hamming_decoder at 1( 0) + 0 on 475;
+  architecture behavioral of hamming_decoder at 11( 195) + 0 on 476;
+file . "lossy_channel_tb.vhd" "4cdfc8d39f1e73b0f1eba79cf93c8a5eff7a6c50" "20170518150844.049":
+  entity lossy_channel_tb at 2( 1) + 0 on 479;
+  architecture behavior of lossy_channel_tb at 9( 123) + 0 on 480;
+file . "lfsr.vhd" "6c1ae5b402a8b517a0a6268c0fe77341ccec0f24" "20170518150843.846":
+  entity lfsr at 1( 0) + 0 on 471;
+  architecture behavioral of lfsr at 10( 180) + 0 on 472;
+file . "lossy_channel.vhd" "969725516906b749f7c7a00eb6ea753b153d4db2" "20170518150843.999":
+  entity lossy_channel at 6( 209) + 0 on 477;
+  architecture behavioral of lossy_channel at 17( 508) + 0 on 478;
+file . "encoder.vhd" "8bedb6e423c5921c070d83f8c63bef603dbfebd8" "20170518150843.928":
+  entity hamming_encoder at 1( 0) + 0 on 473;
+  architecture behavioral of hamming_encoder at 12( 222) + 0 on 474;

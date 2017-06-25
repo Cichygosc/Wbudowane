@@ -1,0 +1,7 @@
+v 4
+file . "zad1.vhd" "497da213f0f1e322238287bfb2594582d087230f" "20170518124008.934":
+  entity statemachine at 2( 1) + 0 on 65;
+  architecture flow of statemachine at 15( 195) + 0 on 66;
+file . "zad1_tb.vhd" "4ec58d5b4a5084372bd7534116948d93d7eab0cb" "20170518124008.968":
+  entity statemachine_tb at 1( 0) + 0 on 67;
+  architecture behavior of statemachine_tb at 7( 95) + 0 on 68;

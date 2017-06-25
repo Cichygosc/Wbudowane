@@ -1,0 +1,12 @@
+v 4
+file . "lab2-gates.vhd" "43df7574d5e9b24d43779077a80acc26fffe77e9" "20170316081952.484":
+  entity gateand at 4( 16) + 0 on 11;
+  architecture behavioral of gateand at 15( 156) + 0 on 12;
+  entity gateor at 23( 258) + 0 on 13;
+  architecture behavioral of gateor at 34( 396) + 0 on 14;
+  entity gatexor at 43( 498) + 0 on 15;
+  architecture behavioral of gatexor at 54( 638) + 0 on 16;
+  entity gatenot at 62( 741) + 0 on 17;
+  architecture behavioral of gatenot at 72( 865) + 0 on 18;
+  entity mux at 80( 986) + 0 on 19;
+  architecture zachowanie of mux at 92( 1215) + 0 on 20;

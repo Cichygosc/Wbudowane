@@ -1,0 +1,3 @@
+shift_lfsr_c.o: shift_lfsr_c.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
